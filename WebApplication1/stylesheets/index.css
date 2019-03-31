@@ -1,0 +1,17 @@
+﻿body {
+    margin: 0;
+}
+
+div {
+    padding: 5px;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+}
+
+#header {
+    background-color: yellow;
+    text-align: center;
+}
